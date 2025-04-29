@@ -15,6 +15,9 @@ A computer vision-based Python project to automatically detect and count vehicle
 
 📷 Vehicle Detection and Counting Screenshot  
 _Add your screenshot as `screenshot.png` in the root directory._
+![Alt text 1](https://github.com/shIVam18004/Vehicle_detection_system/blob/main/vehicle_1.png)
+![Alt text 2](https://github.com/shIVam18004/Vehicle_detection_system/blob/main/vehicle_2.png
+)
 
 ---
 
@@ -94,8 +97,8 @@ Vehicle-Counter-Detection/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/shIVam18004/Vehicle_Counter_Detection.git
-   cd Vehicle_Counter_Detection
+   git clone https://github.com/shIVam18004/Vehicle_detection_system.git
+   cd Vehicle_detection_system
    ```
 
 2. Create and activate a virtual environment:
